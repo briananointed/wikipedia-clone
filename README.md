@@ -1,8 +1,8 @@
 # wikipedia-clone
-#### Online Resume, 1.0
+#### 
 #### By **Brian Wachira**
 ## Description
-This is a web app I made inorder to practise using divs, spans, classes, and floats along with the Bootstrap grid system.
+This is a wikipedia clone I made inorder to practise using divs, spans, classes, and floats along with the Bootstrap grid system.
 ## Setup/Installation Requirements
 Clone on terminal using **git clone ---url---** or download zip and unzip it.
 open in terminal by typing **wikipedia-clone** or double click it
