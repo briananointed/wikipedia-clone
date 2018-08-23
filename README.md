@@ -8,7 +8,7 @@ Clone on terminal using **git clone ---url---** or download zip and unzip it.
 open in terminal by typing **wikipedia-clone** or double click it
 <br/>Run it on any browser.
 ## Link to live site
-https://briananointed.github.io/wikipedia-clone/
+https://brianwachira.github.io/wikipedia-clone/
 ## Technologies Used
 HTML<br/>
 CSS<br/>
@@ -18,4 +18,4 @@ If you have any issues,ideas or concerns contact me on<a href="https://mail.goog
 ### License
 This project is licensed under the terms of the **MIT** license.
 
->You can check out the full license [here](https://github.com/briananointed/wikipedia-clone/blob/master/LICENSE)  
+>You can check out the full license [here](https://github.com/brianwachira/wikipedia-clone/blob/master/LICENSE)  
